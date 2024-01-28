@@ -5,8 +5,8 @@
 #include <omp.h>
 
 #define N 1000
-#define chunk 2
-#define mostrar 10
+#define chunk 150
+#define mostrar 100
 
 void imprimeArreglo(float* d);
 
